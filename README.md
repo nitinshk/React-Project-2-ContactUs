@@ -25,15 +25,15 @@ This is a **Contact Us** page built using **React.js** and **Vite**. It provides
    ```
    
 2. Install dependencies:
-```sh
+   ```sh
    npm install
-```
+   ```
 
 3. Run the project:
-```sh
+   ```sh
    npm run dev
-```
+   ```
 4. Open your browser and visit:
-```sh
+   ```sh
    http://localhost:5173
-```
+   ```
