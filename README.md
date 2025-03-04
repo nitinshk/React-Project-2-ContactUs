@@ -1,8 +1,24 @@
-# React + Vite
+# Contact Page - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **Contact Us** page built using **React.js** and **Vite**. It provides multiple communication options, allowing users to connect via support chat, phone call, or an email form.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Support Chat Button**: Enables users to chat with support.
+- **Call Button**: Allows users to make a direct call.
+- **Email Contact Form**: Users can send messages by filling out the form.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Fast Performance**: Leveraging Vite for a quick and smooth experience.
+
+## 🛠️ Tech Stack
+
+- **React.js** - Frontend framework
+- **Vite** - Development and build tool
+- **CSS** - Styling
+
+## 📦 Installation & Setup
+
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/contact-page.git
+   cd contact-page
