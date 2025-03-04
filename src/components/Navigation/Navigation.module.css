@@ -1,0 +1,21 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 8px;
+    height: 72px;
+  
+  }
+  .cwclogo{
+    height: 90px;
+    width: 90px;
+  }
+  .navigation ul{
+  
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    list-style: none;
+    font-weight: 500;
+  
+  }
