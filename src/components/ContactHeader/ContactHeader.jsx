@@ -1,4 +1,4 @@
-import styles from './Contactheader.module.css'
+import styles from './ContactHeader.module.css'
 ;const ContactHeader = () => {
   return (
     <div className={` ${styles.contact_section}`}>       
