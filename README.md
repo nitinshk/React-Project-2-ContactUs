@@ -22,3 +22,16 @@ This is a **Contact Us** page built using **React.js** and **Vite**. It provides
    ```sh
    git clone https://github.com/your-username/contact-page.git
    cd contact-page
+   
+2. Install dependencies:
+```sh
+   npm install
+
+3. Run the project:
+```sh
+   npm run dev
+
+4. Open your browser and visit:
+```sh
+   http://localhost:5173
+
